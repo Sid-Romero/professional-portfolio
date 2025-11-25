@@ -1,4 +1,4 @@
-# Professional Portfolio - Sid Badji
+# Professional Portfolio - Sidya Badji
 
 Modern, interactive portfolio showcasing DevOps, Cybersecurity, and Network Engineering projects.
 
