@@ -54,8 +54,8 @@ portfolio/
 
 ## 📫 Contact
 
-- **Email** : contact@sidbadji.dev
-- **LinkedIn** : [linkedin.com/in/sid-badji](https://linkedin.com/in/sid-badji)
+- **Email** : badjisidya@yahoo.com
+- **LinkedIn** : [linkedin.com/in/sid-badji](https://www.linkedin.com/in/el-hadji-sidya-badji-35a647264/)
 - **GitHub** : [github.com/Sid-Romero](https://github.com/Sid-Romero)
 
 ## 📄 License
