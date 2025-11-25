@@ -64,4 +64,4 @@ MIT License - see [LICENSE](LICENSE) file for details
 
 ---
 
-**Built with by Sidya Badji** | M2 STRI - Cybersecurity, Cloud & Network Engineering
+**Built by Sidya Badji** | M2 STRI - Cybersecurity, Cloud & Network Engineering
